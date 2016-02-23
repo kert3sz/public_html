@@ -1,0 +1,22 @@
+#listing a.active{
+	background: #FF7575;
+}
+#listing a.active:hover {
+	background: #FF7575;
+}
+
+#winActive{
+	width: 250px;
+}
+
+#container{
+	width: 800px;
+}
+
+#listing a{
+	width: 768px;
+}
+
+#renameFile{
+	margin-left: 100px;
+}
